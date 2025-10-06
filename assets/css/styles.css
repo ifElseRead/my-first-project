@@ -1,0 +1,13 @@
+body {
+  background: lightgrey url("/assets/images/background-img.jpg") no-repeat
+    center center fixed;
+  background-size: cover; /* You still need background-size separately */
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: orangered;
+}
